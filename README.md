@@ -1,11 +1,11 @@
-#**BIOINTMED: Integrated Biomedical Knowledge Base with Ontologies and Clinical Trials**
+## **BIOINTMED: Integrated Biomedical Knowledge Base with Ontologies and Clinical Trials**
 
-##Overview :
+### Overview :
 
 Biomedical knowledge has a high impact on mankind and society. The work aims to integrate biomedical data from various heterogeneous sources like dictionaries or corpus and amalgamate them into an uniform accessible format for the end user like biologist, pharmacist, and data scientist. The proposed integrated biomedical knowledge base, BIOINTMED, have 11299, 12981, 4428,  61491, 48663, and 13146 unique entities for drugs, diseases, targets, genes, biomedical pathways, and adverse events, respectively. The uniform aggregated collection is also explored to study the interaction among these entity pairs.
-<pre>
-##code details:
 
+### Code details:
+<pre>
 folder format:
 src
 |
@@ -169,16 +169,16 @@ src
 </pre>
 
 
-##Data :
+### Data :
 
 Information about the data are available from the [link]() 
 
-##Miscellaneous :
+### Miscellaneous :
 
 The overall system code will be open soon.
 Please send any questions you might have about the datasets and/or codes to ankitasaha@iitkgp.ac.in
 
-##Contact details:
+### Contact details:
 
 Ankita Saha
 Department of Advance Technology and Development Centre
