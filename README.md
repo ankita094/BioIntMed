@@ -95,8 +95,8 @@ src
 
 **note** : For running the code if the script written in python run "python Filename.py" and for pyspark run "spark-submit FileName.py" in terminal. for each folder execute based on mentioned script numbers.
 
-[1]To filter the attribute value from clinical trial for drug invention after converting the files from xml to json
-[2]To filter the attribute value from clinical trial for adverse Category and its respective counts
+[1]To filter the attribute value from clinical trial for drug invention after converting the files from xml to json<br />
+[2]To filter the attribute value from clinical trial for adverse Category and its respective counts<br  />
 [3]To filter the attribute value from clinical trial for other adverse Events
 [4]To filter the attribute value from clinical trial for serious adverse Events
 [5]For combination serious adverse Events and other event mentioned in clinical trials
