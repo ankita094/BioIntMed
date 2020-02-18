@@ -3,7 +3,7 @@
 ##Overview :
 
 Biomedical knowledge has a high impact on mankind and society. The work aims to integrate biomedical data from various heterogeneous sources like dictionaries or corpus and amalgamate them into an uniform accessible format for the end user like biologist, pharmacist, and data scientist. The proposed integrated biomedical knowledge base, BIOINTMED, have 11299, 12981, 4428,  61491, 48663, and 13146 unique entities for drugs, diseases, targets, genes, biomedical pathways, and adverse events, respectively. The uniform aggregated collection is also explored to study the interaction among these entity pairs.
-
+<pre>
 ##code details:
 
 folder format:
@@ -92,11 +92,12 @@ src
 |-uniqueTarget1.py :[68]
 |-XmlToCsv.py :[69]
 |-XmlToJson.py :[70]
+</pre>
 
 **note** : For running the code if the script written in python run "python Filename.py" and for pyspark run "spark-submit FileName.py" in terminal. for each folder execute based on mentioned script numbers.
-
-[1]To filter the attribute value from clinical trial for drug invention after converting the files from xml to json<br />
-[2]To filter the attribute value from clinical trial for adverse Category and its respective counts<br  />
+<pre>
+[1]To filter the attribute value from clinical trial for drug invention after converting the files from xml to json
+[2]To filter the attribute value from clinical trial for adverse Category and its respective counts
 [3]To filter the attribute value from clinical trial for other adverse Events
 [4]To filter the attribute value from clinical trial for serious adverse Events
 [5]For combination serious adverse Events and other event mentioned in clinical trials
@@ -165,6 +166,7 @@ src
 [68]To extract the target and drug-target relation from drugbank datasets to create unique list of target name for DrugBank dictionary
 [69]To convert xml format file to json format file for DrugBank dictionary
 [70]To convert xml format file to json format file for DrugBank dictionary
+</pre>
 
 
 ##Data :
