@@ -171,7 +171,7 @@ src
 
 ### Data :
 
-Information about the data are available from the [link](http://facweb.iitkgp.ac.in/~jay/BIOINTMED1/BIOINTMED.html) 
+Information about the data are available from the [link](http://www.facweb.iitkgp.ac.in/~jay/BIOINTMED1/BIOINTMED.html) 
 
 ### Miscellaneous :
 
